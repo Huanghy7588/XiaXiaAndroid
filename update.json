@@ -2,7 +2,7 @@
     "versionCode": 102,
     "versionName": "1.0.2",
     "updateLog": "1. 优化进度文字显示，适配小屏幕手机\n2. 过滤自定义分路，不在分路栏显示\n3. 修复导入临时文件路径硬编码问题\n4. 导入成功后自动清理临时文件\n5. 新增应用内更新检查和公告功能",
-    "downloadUrl": "https://raw.githubusercontent.com/Huanghy7588/XiaXiaAndroid/main/xiaxiahelper-1.0.1-arm64-v8a-debug.apk",
+    "downloadUrl": "https://cdn.jsdelivr.net/gh/Huanghy7588/XiaXiaAndroid@main/xiaxiahelper-1.0.1-arm64-v8a-debug.apk",
     "apkSize": 28773376,
     "announcement": {
         "id": "20260811-001",
