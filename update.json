@@ -1,1 +1,13 @@
-
+{
+    "versionCode": 102,
+    "versionName": "1.0.2",
+    "updateLog": "1. 优化进度文字显示，适配小屏幕手机\n2. 过滤自定义分路，不在分路栏显示\n3. 修复导入临时文件路径硬编码问题\n4. 导入成功后自动清理临时文件\n5. 新增应用内更新检查和公告功能",
+    "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.0.2/xiaxiahelper-1.0.2-arm64-v8a-debug.apk",
+    "apkSize": 28773376,
+    "announcement": {
+        "id": "20260811-001",
+        "title": "夏夏小助手更新公告",
+        "content": "欢迎使用夏夏小助手！\n\n本次更新内容：\n1. 新增应用内更新检查功能\n2. 新增公告通知功能\n3. 优化进度文字显示\n\n如有问题请联系夏夏QQ：3089096785",
+        "forceShow": false
+    }
+}
