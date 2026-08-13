@@ -5,9 +5,9 @@
     "downloadUrl": "https://cdn.jsdelivr.net/gh/Huanghy7588/XiaXiaAndroid@main/xiaxiahelper-1.0.2-arm64-v8a-debug.apk",
     "apkSize": 28732822,
     "announcement": {
-        "id": "20260813-001",
-        "title": "夏夏小助手测试公告",
-        "content": "这是一条测试公告。\n\n如果你看到了这个弹窗，说明公告功能正常工作！\n\n联系方式：夏夏QQ 3089096785",
+        "id": "20260813-002",
+        "title": "夏夏小助手",
+        "content": "欢迎使用夏夏小助手！\n有问题联系QQ：3089096785",
         "forceShow": true
     }
 }
