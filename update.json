@@ -3,7 +3,7 @@
     "versionName": "1.0.4",
     "updateLog": "1. 新增应用内自动更新检测，有新版本自动提醒下载\n2. 新增公告通知功能，可推送重要消息\n3. 修复安卓下HTTPS请求失败导致无法检测更新\n4. 修复公告不弹出的问题，支持强制显示\n5. 优化进度文字显示，适配小屏幕手机\n6. 过滤自定义分路，不在分路栏显示\n7. 修复导入临时文件路径硬编码问题\n8. 导入成功后自动清理临时文件\n9. 优化更新弹窗和公告弹窗UI样式\n10. 支持\"稍后\"跳过更新，3天内不再提醒",
     "downloadUrl": "https://cdn.jsdelivr.net/gh/Huanghy7588/XiaXiaAndroid@main/xiaxiahelper-1.0.3-arm64-v8a-debug.apk",
-    "apkSize": 28732831,
+    "apkSize": 28732823,
     "announcement": {
         "id": "20260813-002",
         "title": "夏夏小助手",
