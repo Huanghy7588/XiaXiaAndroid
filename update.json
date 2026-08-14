@@ -1,7 +1,7 @@
 {
     "versionCode": 108,
     "versionName": "1.0.8",
-    "updateLog": "1. 字帖新增两种显示样式，可随时切换：整块（所有字帖拼成一块文本，可上下滑动，长文字自动换行）和逐行（每行一个按钮，点击单独复制该行）\n2. 进一步修复全皮肤模式下原皮字帖复制不上的问题\n3. 更新下载新增多线路容错：直连卡住自动切换镜像加速线路，卡0%问题解决\n4. 下载界面新增\"用浏览器下载\"兜底按钮，自动下载慢时可用浏览器下载\n5. 显示样式偏好会自动记忆，重启后保持上次选择",
+    "updateLog": "是否更新？",
     "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.0.8/xiaxiahelper-1.0.8-arm64-v8a-debug.apk",
     "apkSize": 28741485,
     "announcement": {
