@@ -1,9 +1,9 @@
 {
-    "versionCode": 111,
-    "versionName": "1.0.11",
+    "versionCode": 112,
+    "versionName": "1.1.0",
     "updateLog": "是否更新？",
-    "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.0.11/xiaxiahelper-1.0.11-arm64-v8a-debug.apk",
-    "apkSize": 28741436,
+    "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.1.0/xiaxiahelper-1.1.0-arm64-v8a-debug.apk",
+    "apkSize": 28739722,
     "announcement": {
         "id": "20260813-002",
         "title": "夏夏小助手",
