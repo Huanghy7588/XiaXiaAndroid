@@ -1,9 +1,9 @@
 {
-    "versionCode": 114,
-    "versionName": "1.1.2",
-    "updateLog": "修复：无皮肤英雄（如元流之子）不显示的问题\n新增：全皮肤模式下新增“单个复制/全部复制”切换按钮，全部复制可一次性复制整个英雄的全部字帖",
-    "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.1.2/xiaxiahelper-1.1.2-arm64-v8a-debug.apk",
-    "apkSize": 28740138,
+    "versionCode": 115,
+    "versionName": "1.1.3",
+    "updateLog": "新增：点击重置按钮时主动检查软件更新\n修复：更新检测备用地址失效导致收不到更新提示的问题",
+    "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.1.3/xiaxiahelper-1.1.3-arm64-v8a-debug.apk",
+    "apkSize": 28740214,
     "announcement": {
         "id": "20260813-002",
         "title": "夏夏小助手",
