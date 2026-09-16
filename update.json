@@ -1,13 +1,1 @@
-{
-    "versionCode": 116,
-    "versionName": "1.1.4",
-    "updateLog": "修复：全皮肤模式下“单个复制/全部复制”按钮在重启App后消失的问题",
-    "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.1.4/xiaxiahelper-1.1.4-arm64-v8a-debug.apk",
-    "apkSize": 28740244,
-    "announcement": {
-        "id": "20260813-002",
-        "title": "夏夏小助手",
-        "content": "欢迎使用夏夏小助手！\n有问题联系QQ：3089096785",
-        "forceShow": true
-    }
-}
+{"versionCode":147,"versionName":"1.3.17","title":"夏夏小助手 1.3.17 已发布","message":"导出字帖图片时弹出进度窗（实时显示正在导出 X/Y 及当前英雄/皮肤），全部导出完成后再弹汇总窗「导出成功，共 X 张字帖，失败 Y 张字帖」。","downloadUrl":"https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.3.17/xiaxiahelper-1.3.17-arm64-v8a-debug.apk","forceShow":false,"apkSize":29998549,"updateLog":["导出字帖图片时弹进度窗：实时显示正在导出 X/Y、进度条、当前英雄/皮肤","全部导出完成后弹汇总窗：导出成功，共 X 张字帖，失败 Y 张字帖","进度弹窗与成功汇总窗都保留，不再二选一","全量文件版本号统一为 1.3.17"],"announcement":""}
