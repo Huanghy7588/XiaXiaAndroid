@@ -1,14 +1,1 @@
-{
-  "versionCode": 167,
-  "versionName": "1.5.9",
-  "title": "夏夏小助手 1.5.9 更新",
-  "message": "检查更新只保留一种方式：直接读取 GitHub 仓库的最新 Release（版本号取 tag_name，安装包取 Release 里的 APK 附件）",
-  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.9/xiaxiahelper-1.5.9-arm64-v8a-debug.apk",
-  "apkSize": 30027382,
-  "announcement": {
-    "id": "v1.5.9",
-    "title": "1.5.9 更新说明",
-    "content": "本次更新：\n1. 检查更新统一走 GitHub Releases（原生 Android 方案），删掉了原来那些乱七八糟的备用线路；\n2. 保留此前修正过的地方：联网走手机系统通道、失败时弹窗会显示当前版本和真实报错原因。",
-    "forceShow": false
-  }
-}
+{"versionCode":168,"versionName":"1.6.0","title":"夏夏小助手 1.6.0 更新","message":"已是最新提示并修复导出闪退","downloadUrl":"https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.6.0/xiaxiahelper-1.6.0-arm64-v8a-debug.apk","apkSize":30027861,"announcement":{"id":"v1.5.0","title":"1.5.0 更新说明","content":"1. 检查更新多源稳源：Deno 反代 + ghproxy + jsdelivr 三级兜底，旧版本也能收到最新更新；\n2. 卡密联网校验强制走 IPv4，解决手机 IPv6 不稳导致「连不上校验服务器」的问题；\n3. 字帖参数页布局优化，行样式长按右侧把手上下滑动即可排序。","forceShow":false}}
