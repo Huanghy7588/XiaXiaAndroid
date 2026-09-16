@@ -1,1 +1,14 @@
-{"versionCode": 159, "versionName": "1.5.1", "title": "夏夏小助手 1.5.1 更新", "message": "卡密改为名单模型：直接读 GitHub 卡密名单校验，不再依赖 Deno 服务", "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.1/xiaxiahelper-1.5.1-arm64-v8a-debug.apk", "apkSize": 30023151, "announcement": {"id": "v1.5.0", "title": "1.5.0 更新说明", "content": "1. 检查更新多源稳源：Deno 反代 + ghproxy + jsdelivr 三级兜底，旧版本也能收到最新更新；\n2. 卡密联网校验强制走 IPv4，解决手机 IPv6 不稳导致「连不上校验服务器」的问题；\n3. 字帖参数页布局优化，行样式长按右侧把手上下滑动即可排序。", "forceShow": false}}
+{
+  "versionCode": 159,
+  "versionName": "1.5.1",
+  "title": "夏夏小助手 1.5.1 更新",
+  "message": "卡密改为名单模型：直接读 GitHub 卡密名单校验，不再依赖 Deno 服务",
+  "downloadUrl": "https://cdn.jsdelivr.net/gh/Huanghy7588/XiaXiaAndroid@main/xiaxiahelper-1.5.1-arm64-v8a-debug.apk",
+  "apkSize": 30023151,
+  "announcement": {
+    "id": "v1.5.0",
+    "title": "1.5.0 更新说明",
+    "content": "1. 检查更新多源稳源：Deno 反代 + ghproxy + jsdelivr 三级兜底，旧版本也能收到最新更新；\n2. 卡密联网校验强制走 IPv4，解决手机 IPv6 不稳导致「连不上校验服务器」的问题；\n3. 字帖参数页布局优化，行样式长按右侧把手上下滑动即可排序。",
+    "forceShow": false
+  }
+}
