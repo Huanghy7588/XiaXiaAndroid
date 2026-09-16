@@ -1,14 +1,14 @@
 {
-  "versionCode": 165,
-  "versionName": "1.5.7",
-  "title": "夏夏小助手 1.5.7 更新",
-  "message": "修复等待超时后收集不到任何错误信息的问题；系统通道与备用通道的真实报错都会显示在失败弹窗里",
-  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.7/xiaxiahelper-1.5.7-arm64-v8a-debug.apk",
-  "apkSize": 30026900,
+  "versionCode": 166,
+  "versionName": "1.5.8",
+  "title": "夏夏小助手 1.5.8 更新",
+  "message": "更新源改为 GitHub Releases：直接读取仓库最新 Release 的版本号与 APK 附件；原来的 update.json 多源保留作兜底",
+  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.8/xiaxiahelper-1.5.8-arm64-v8a-debug.apk",
+  "apkSize": 30029666,
   "announcement": {
-    "id": "v1.5.7",
-    "title": "1.5.7 更新说明",
-    "content": "本次更新：\n1. 修复网络请求卡住时一条错误都收集不到的问题；\n2. 系统通道、备用通道的真实报错分开列出，截图即可精确定位；\n3. 提示：若仍失败，请尝试关闭 Wi-Fi 改用手机流量再点一次检查更新，并把这个结果也告诉作者。",
+    "id": "v1.5.8",
+    "title": "1.5.8 更新说明",
+    "content": "本次更新：\n1. 检查更新改为直接问 GitHub 仓库「最新 Release 是哪个版本、APK 在哪」（原生 Android 常用做法，版本号与安装包永远一致）；\n2. 原来的多线路兜底保留，任一线路通就能查到更新；\n3. 更新说明直接显示 Release 的内容。",
     "forceShow": false
   }
 }
