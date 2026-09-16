@@ -1,14 +1,14 @@
 {
-  "versionCode": 160,
-  "versionName": "1.5.2",
-  "title": "夏夏小助手 1.5.2 更新",
-  "message": "修复「检查更新」提示无法连接到更新服务器的问题：联网请求强制走 IPv4，避免手机 IPv6 不稳时所有更新源都连不上",
-  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.2/xiaxiahelper-1.5.2-arm64-v8a-debug.apk",
-  "apkSize": 30023613,
+  "versionCode": 161,
+  "versionName": "1.5.3",
+  "title": "夏夏小助手 1.5.3 更新",
+  "message": "修复「检查更新」误报无法连接到更新服务器：更新源改为并发请求，不再被超时预算打断",
+  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.3/xiaxiahelper-1.5.3-arm64-v8a-debug.apk",
+  "apkSize": 30024080,
   "announcement": {
-    "id": "v1.5.2",
-    "title": "1.5.2 更新说明",
-    "content": "本次修复：\n1. 修复部分手机点「检查更新」报「无法连接到更新服务器」的问题（IPv6 不稳导致）；\n2. 检查更新、公告的联网请求统一强制走 IPv4（与卡密校验一致）；\n3. 更新源保持多级兜底：Deno 反代 + ghproxy + jsdelivr + GitHub raw。",
+    "id": "v1.5.3",
+    "title": "1.5.3 更新说明",
+    "content": "本次修复：\n1. 修复部分手机点「检查更新」误报「无法连接到更新服务器」的问题；\n2. 更新源改为同时并发请求（原来 6 个源逐个串行，经常被超时预算打断，实际只试了前两个源就判失败）；\n3. 联网统一走 IPv4，避免 IPv6 不稳导致连不上。",
     "forceShow": false
   }
 }
