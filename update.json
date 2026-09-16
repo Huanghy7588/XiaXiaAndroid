@@ -1,14 +1,14 @@
 {
-  "versionCode": 161,
-  "versionName": "1.5.3",
-  "title": "夏夏小助手 1.5.3 更新",
-  "message": "修复「检查更新」误报无法连接到更新服务器：更新源改为并发请求，不再被超时预算打断",
-  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.3/xiaxiahelper-1.5.3-arm64-v8a-debug.apk",
-  "apkSize": 30024080,
+  "versionCode": 162,
+  "versionName": "1.5.4",
+  "title": "夏夏小助手 1.5.4 更新",
+  "message": "检查更新：超时全面放宽（单源 12 秒、整体 25 秒），失败弹窗直接显示真实失败原因，便于定位",
+  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.4/xiaxiahelper-1.5.4-arm64-v8a-debug.apk",
+  "apkSize": 30024721,
   "announcement": {
-    "id": "v1.5.3",
-    "title": "1.5.3 更新说明",
-    "content": "本次修复：\n1. 修复部分手机点「检查更新」误报「无法连接到更新服务器」的问题；\n2. 更新源改为同时并发请求（原来 6 个源逐个串行，经常被超时预算打断，实际只试了前两个源就判失败）；\n3. 联网统一走 IPv4，避免 IPv6 不稳导致连不上。",
+    "id": "v1.5.4",
+    "title": "1.5.4 更新说明",
+    "content": "本次更新：\n1. 检查更新的联网超时全面放宽，慢网络也能等到结果；\n2. 万一仍失败，弹窗会直接列出每个更新源的真实失败原因，截图发给作者即可一键定位；\n3. 保留多源并发 + IPv4 强制。",
     "forceShow": false
   }
 }
