@@ -1,14 +1,14 @@
 {
-  "versionCode": 163,
-  "versionName": "1.5.5",
-  "title": "夏夏小助手 1.5.5 更新",
-  "message": "检查更新失败弹窗第一行显示当前版本号，可确认是否装上新版；修复读数据卡死导致拿不到错误信息的问题",
-  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.5/xiaxiahelper-1.5.5-arm64-v8a-debug.apk",
-  "apkSize": 30025094,
+  "versionCode": 164,
+  "versionName": "1.5.6",
+  "title": "夏夏小助手 1.5.6 更新",
+  "message": "联网改走安卓系统网络栈（与浏览器同一条路），彻底绕开 Python 层 DNS/IPv6 卡死导致的\"无法连接到更新服务器\"",
+  "downloadUrl": "https://github.com/Huanghy7588/XiaXiaAndroid/releases/download/v1.5.6/xiaxiahelper-1.5.6-arm64-v8a-debug.apk",
+  "apkSize": 30026367,
   "announcement": {
-    "id": "v1.5.5",
-    "title": "1.5.5 更新说明",
-    "content": "本次更新：\n1. 「检查更新失败」弹窗第一行显示当前版本号——一眼确认装没装上新版；\n2. 修复个别情况下读网络数据卡死、导致弹窗看不到具体错误的问题；\n3. 若仍失败，弹窗里的「失败原因」会列出每个更新源的真实报错，截图发给作者即可定位。",
+    "id": "v1.5.6",
+    "title": "1.5.6 更新说明",
+    "content": "本次更新（重要修复）：\n1. 检查更新、卡密校验的联网改走安卓系统自带网络通道（和手机浏览器同一条路），浏览器能上网它就能上网；\n2. 彻底解决部分手机上 Python 联网卡死、报「无法连接到更新服务器」的问题；\n3. 原来的联网方式保留作备用线路。",
     "forceShow": false
   }
 }
